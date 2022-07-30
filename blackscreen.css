@@ -1,0 +1,15 @@
+:root {
+  --black: black;
+  --white: white;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100%;
+  background-color: var(--black);
+}
